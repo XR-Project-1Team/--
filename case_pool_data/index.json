@@ -1,0 +1,177 @@
+{
+  "entries": {
+    "c1c4602c8f41ee05940eb03e": {
+      "title": "잠긴 문서실의 실종자",
+      "source": "cases\\case_20261109_163522.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "e6366d694df1b6ce69ccd739": {
+      "title": "삭제된 실험값과 밀봉된 차",
+      "source": "cases\\case_20261109_171512.json",
+      "category_id": "research",
+      "difficulty": "",
+      "approved": false
+    },
+    "0c15e74c37329448237c79b9": {
+      "title": "자동으로 닫히는 문",
+      "source": "cases\\case_20261110_132849.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "e2b24302ccc3d7ae2acfb165": {
+      "title": "기억을 고친 밤",
+      "source": "cases\\case_20261110_140007.json",
+      "category_id": "psychology",
+      "difficulty": "standard",
+      "approved": false
+    },
+    "7abb668cfae40fed61c4f4f5": {
+      "title": "서명 직전의 죽음",
+      "source": "cases\\case_20261110_160426.json",
+      "category_id": "corporate",
+      "difficulty": "standard",
+      "approved": false
+    },
+    "f7a7105d06e62223fc77908e": {
+      "title": "사라진 실험 기록",
+      "source": "cases\\case_20261110_172841.json",
+      "category_id": "research",
+      "difficulty": "standard",
+      "approved": false
+    },
+    "e087cfde9020480cdfd6d175": {
+      "title": "사라진 최종 보고서",
+      "source": "cases\\case_20261111_164252.json",
+      "category_id": "research",
+      "difficulty": "standard",
+      "approved": false
+    },
+    "fe70f6c183bb7ced0e220ba3": {
+      "title": "잠긴 전망 테라스",
+      "source": "cases\\case_20261112_141337.json",
+      "category_id": "locked_room",
+      "difficulty": "standard",
+      "approved": false
+    },
+    "3c5eeec392a45c33683a5f41": {
+      "title": "마지막 실험 기록",
+      "source": "cases\\case_20261116_110824.json",
+      "category_id": "research",
+      "difficulty": "standard",
+      "approved": false
+    },
+    "16f883475bd764853cabf431": {
+      "title": "공학관 테라스의 추락 신호",
+      "source": "cases\\old\\case_20261026_165921.json",
+      "category_id": "",
+      "difficulty": "",
+      "approved": false
+    },
+    "2035a60eb8e24fc728f08566": {
+      "title": "닫힌 서고의 마지막 출입",
+      "source": "cases\\old\\case_20261109_110305.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "957d4fa95470984a1ea6d076": {
+      "title": "잠긴 전망실의 추락",
+      "source": "cases\\old\\case_20261109_110634.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "53998caead8db321085e6e1c": {
+      "title": "고쳐 쓴 기억",
+      "source": "cases\\old\\case_20261109_114250.json",
+      "category_id": "psychology",
+      "difficulty": "",
+      "approved": false
+    },
+    "8fb00da9ce73bd539cebee04": {
+      "title": "멈춘 실험 기록",
+      "source": "cases\\old\\case_20261109_134109.json",
+      "category_id": "research",
+      "difficulty": "",
+      "approved": false
+    },
+    "fed5bc8ee54d56880036fa0e": {
+      "title": "잠긴 전망실의 추락",
+      "source": "cases\\old\\case_20261109_140607.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "8efec75c5db7caba1a11abd3": {
+      "title": "폐기되지 않은 운송 계약",
+      "source": "cases\\old\\case_20261109_142831.json",
+      "category_id": "corporate",
+      "difficulty": "",
+      "approved": false
+    },
+    "7fd11aa712ab436226c16c34": {
+      "title": "닫힌 수장고의 두 시간",
+      "source": "cases\\old\\case_20261109_145129.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "698569465d4d51a8077c242f": {
+      "title": "눈보라 속 전망실",
+      "source": "cases\\old\\case_20261109_153728.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "257c359ab669ed0d949546d0": {
+      "title": "눈보라 속의 빗장",
+      "source": "cases\\old\\case_20261109_154040.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "b36428fd81cc1b1bf176f5b1": {
+      "title": "잠긴 전망대의 추락",
+      "source": "cases\\old\\case_20261109_154930.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "9f20f9ba68860a8cbed4daac": {
+      "title": "저절로 잠기는 점검구",
+      "source": "cases\\old\\case_20261109_163136.json",
+      "category_id": "locked_room",
+      "difficulty": "",
+      "approved": false
+    },
+    "3087ed00418c6b6e1659f3b6": {
+      "title": "눈보라 속 서재의 잠금",
+      "source": "case_20261118_162352.json",
+      "category_id": "locked_room",
+      "difficulty": "easy",
+      "approved": true
+    },
+    "478ae9035254f4f8881f6c71": {
+      "title": "잠긴 전시홀의 난간",
+      "source": "case_20261118_162710.json",
+      "category_id": "locked_room",
+      "difficulty": "easy",
+      "approved": true
+    },
+    "c731a1de785c99eb067e1c91": {
+      "title": "잠금 표시가 켜진 객실",
+      "source": "case_20261118_164301.json",
+      "category_id": "locked_room",
+      "difficulty": "easy",
+      "approved": true
+    }
+  },
+  "offered": {
+    "c3a6495ae52a4208aa4843847a6b9b7c": [
+      "478ae9035254f4f8881f6c71"
+    ]
+  }
+}
